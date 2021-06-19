@@ -15,6 +15,7 @@ namespace API_Crud_Clientes.Data
         public int Estoque02 { get; set; }
         public int Estoque03 { get; set; }
         public int Estoque04 { get; set; }
+        public int Estoque05 { get; set; }
 
     }
 }
