@@ -12,5 +12,7 @@ namespace API_Crud_Clientes.Data
         public decimal Preco { get; set; }
         public int Estoque { get; set; }
         public int Estoque01 { get; set; }
+        public int Estoque02 { get; set; }
+
     }
 }
